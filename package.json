@@ -1,0 +1,34 @@
+{
+  "name": "retain",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ag-grid-community/client-side-row-model": "^32.2.2",
+    "@ag-grid-community/core": "^32.2.2",
+    "@ag-grid-community/react": "^32.2.2",
+    "@ag-grid-community/styles": "^32.2.2",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.4",
+    "@mui/material": "^6.1.4",
+    "@syncfusion/ej2-react-grids": "^27.1.53",
+    "ag-grid-community": "^32.2.2",
+    "ag-grid-react": "^32.2.2",
+    "antd": "^5.21.4",
+    "color": "^4.2.3",
+    "next": "14.2.15",
+    "react": "^18",
+    "react-dom": "^18",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.15"
+  }
+}
